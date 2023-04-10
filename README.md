@@ -7,7 +7,7 @@ JavaScript para Web: Crie páginas dinâmicas. <br>
 
 [Alura MIDI](https://whoisbrizza.github.io/aluramidi-by-brizza/)
 
-<img src='Alura MIDI - Google Chrome 2023-04-10 10-28-31'>
+<img src='Alura MIDI - Google Chrome 2023-04-10 10-28-31.gif'>
 
 ## Stacks utilizadas
 
